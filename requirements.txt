@@ -1,0 +1,5 @@
+fire
+opensmile
+pandas
+pyannote.core
+pydub
